@@ -1,0 +1,5 @@
+URL = "http://dbweb5.fnal.gov:8080/ECL/minerva"
+password = "axial2009"
+user = "minerva_auto"
+SWAPDIR="/minerva/data/online_processing/swap_area"
+LOGDIR="/home/minerva/cmtuser/Minerva_v10r9p1/Tools/ControlRoomTools/automated_ecl/logfiles"                                                                                                                                      
